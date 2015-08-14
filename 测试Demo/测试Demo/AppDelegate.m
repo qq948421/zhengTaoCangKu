@@ -34,7 +34,13 @@
     NSLog(@"FFFFFFFFF");
     NSLog(@"Ddddddddd");
 //>>>>>>> 9d3570306ecdd271eab55a2a7e8617040fb98549
+//<<<<<<< HEAD
     NSLog(@"冲突冲突李四又冲突了");
+//=======
+    NSLog(@"冲突冲突冲突");
+    
+    
+//>>>>>>> dab40c4abd311521c56c17a18482939fcac5011f
     
     
     
